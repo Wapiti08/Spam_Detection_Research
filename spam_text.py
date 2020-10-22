@@ -30,6 +30,7 @@ X_train, X_test, y_train, y_test, idx_train, idx_test = \
 
 vectorizer = CountVectorizer()
 tfidf_vectorizer = TfidfVectorizer()
+
 X_train_vector = vectorizer.fit_transform(X_train)
 X_test_vector = vectorizer.transform(X_test)
 
