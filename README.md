@@ -5,7 +5,7 @@ The research on diverse spam detection
 
 [How spam links word](https://tiptopsecurity.com/the-truth-about-clicking-links-in-email-and-what-to-do-instead/)
 
-[clocking methods](https://prettylinks.com/docs/cloaking-vs-cloaking/)
+[cloaking methods](https://prettylinks.com/docs/cloaking-vs-cloaking/)
 
 Using link-spam detection classifiers with methods like cloaking and redirection chains.
 
